@@ -8,4 +8,8 @@
 <rect x="4" y="0" width="1" height="1" fill="#c0cfcb" opacity=".3"/>
 <rect x="8" y="4" width="1" height="1" fill="#c0cfcb" opacity=".3"/>
 <rect x="4" y="8" width="1" height="1" fill="#c0cfcb" opacity=".3"/>
+<rect x="2" y="6" width="1" height="1" fill="#c0cfcb" opacity=".3"/>
+<rect x="2" y="2" width="1" height="1" fill="#c0cfcb" opacity=".3"/>
+<rect x="6" y="2" width="1" height="1" fill="#c0cfcb" opacity=".3"/>
+<rect x="6" y="6" width="1" height="1" fill="#c0cfcb" opacity=".3"/>
 </svg>
